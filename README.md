@@ -1,2 +1,2 @@
 # Python-Examples
-Code examples written in Python
+Examples written in Python
