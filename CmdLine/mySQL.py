@@ -34,4 +34,8 @@ userFirst = 'John'
 # Select the user using our query command by passing in our template and data
 query.execute(template, userFirst)
 
+# Close database connection
+conn.close()
+
+
 # Thomas Boccinfuso - www.tboccinfuso.com / www.twitter.com/BoccinfusoT
